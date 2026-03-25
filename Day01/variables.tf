@@ -1,0 +1,1 @@
+# Define Variables templates, type and default values
